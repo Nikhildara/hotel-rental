@@ -1,0 +1,646 @@
+[
+    {"city":1,
+    "id":1,
+    "hotelImages":[
+        {"img":"https://static01.nyt.com/images/2019/08/22/multimedia/00-trump-centralpark-02/merlin_158661279_821e847d-d223-4a41-bd02-f7c79a7804a8-articleLarge.jpg?quality=75&auto=webp&disable=upscale"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTanvbfUb17DLNqg9MEqhOyS6RwN_R2yczno1yv8X83KuIwVFMaErGnpflLLYLALqoWFWQ&usqp=CAU"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2VQlFmQaIcUIY1sDFgbsAHuLnhPWRAFeF0iripKb2wiYJCfLcJOu1mY-yzfCfqJM5yk&usqp=CAU"},
+        {"img":"https://media.cntraveler.com/photos/53db2532dcd5888e145e8503/master/pass/new-york-hotels-trump-international.jpg"}
+    ],
+    "name":"TRUMP INTERNATIONAL HOTEL AND TOWER",
+    "room":4,
+    "beds":6,
+    "bath":1,
+    "area":656,
+    "location":"8851 Green Rd.",
+    "popular":false,
+    "rent":4856,
+    "sale":true
+},
+{"city":1,
+"id":2,
+    "hotelImages":[
+        {"img":"https://www.haystravel.co.uk/uploaded/2019/5/1557419079_edison-01.jpg"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiWdIhzm7-jX_XZcfBQaYdqX3Md4YydY-qm7mWNctWAQsHU8AwZuS3unblgftPN1gisbw&usqp=CAU"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTmup8BVAu8IsjGYbQXIvIhtu1sm56SzmZtO6UAfMauyDr_7FNnQBaqF2pdxpOf0qKIKM&usqp=CAU"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4NJRqZPJ3T9-VsNMx3stAbRPMuSANiJiIotgBL3JKWsLq-K8punRuX-p9xmZh3Jfvcgc&usqp=CAU"}
+    ],
+    "name":"HOTEL EDISON, NEW YORK CITY, NEW YORK",
+    "room":5,
+    "beds":3,
+    "bath":1,
+    "area":786,
+    "location":"8941 Hill Rd.",
+    "popular":false,
+    "rent":4589,
+    "sale":true
+},
+{"city":1,
+"id":3,
+    "hotelImages":[
+        {"img":"https://image-tc.galaxy.tf/wijpeg-e3x7qmu1qz3qnbrwpyhoyraz5/hotelshocardmarquee.jpg?width=1920"},
+        {"img":"https://photos.wikimapia.org/p/00/08/22/54/68_big.jpg"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-vhaFJOudqnxGZ3jZCuvnffv_hC7A8THXvM1vRrkGeg4nDRH7iD5jKA4Ti2a3K1Lfcfg&usqp=CAU"},
+        {"img":"https://image-tc.galaxy.tf/wijpeg-3fpabmrfs2cb9t8fynw670zh7/hotelshocardaccessibleroom_standard.jpg?crop=107%2C0%2C1707%2C1280"}
+    ],
+    "name":"HOTEL SHOCARD, NEW YORK CITY, NEW YORK",
+    "room":4,
+    "beds":2,
+    "bath":1,
+    "area":656,
+    "location":"8851 Green Rd.",
+    "popular":true,
+    "rent":3456,
+    "sale":false
+},
+{"city":1,
+"id":4,
+    "hotelImages":[
+        {"img":"https://media.hrs.com/media/image/af/ca/69/Hotel_Pennsylvania-New_York-Aussenansicht-12-68298.jpg"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvL_CD7R3GvgdBs5AWgaNDTvJdAN9-0lldg&usqp=CAU"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRCXl5lZMPa1NyHZ9wxTYsioPF8vQ_7IktdkusK45IvoZm1o5dCokcwKy57e_5vuTlV4&usqp=CAU"},
+        {"img":"https://pics.tui.com/pics/pics1600x1200/tui/1/16b0f93d9ed794cb_72fe1dd0506acce8eaf90a2a887ca036.jpg"}
+    ],
+    "name":"HOTEL PENNSYLVANIA, NEW YORK",
+    "room":4,
+    "beds":3,
+    "bath":1,
+    "area":296,
+    "location":"8851 Green Rd.",
+    "popular":false,
+    "rent":2365,
+    "sale":true
+},
+{"city":1,
+"id":5,
+    "hotelImages":[
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUsGi1L3WWrE56UVtlELtkRn1amWdb16NRg&usqp=CAU"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauabndBIi2TKPX5b-qbkUnDR7vzvan6xmbOThIUIibeP_Hs_4WO1zpbblGlF0nXgqjOc&usqp=CAU"},
+        {"img":"https://media.architecturaldigest.com/photos/5dcadd8e80598800086214e3/16:9/w_2560%2Cc_limit/2%2520Chelsea-SteveWillis-P90-91.jpg"},
+        {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPrMLfHIHcAVTtZnduGXbMo6Y2YXKDtsC9UA&usqp=CAU"}
+    ],
+    "name":"HOTEL CHELSEA, NEW YORK",
+    "room":4,
+    "beds":5,
+    "bath":1,
+    "area":756,
+    "location":"7891 Green Rd.",
+    "popular":true,
+    "rent":4545,
+    "sale":false
+}
+,{"city":1,
+"id":6,
+"hotelImages":[
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZCQf_X2ty5YhIPz6yLXNdgcJDckC1ce8R0SeUfIw-QjzdSFCWMumo6Q7ci59gpqB6gw&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10RVbb0Di3HA6JEnJeTLT8D_NxxBMwzZZRRce7Jn_7GoU-khj8jv8uI3UzkTXDtQ65E0&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOAfW3JNippitRj9qVsLpH0VR6BD4OmqBOGq3HsthVkvdiLEBCeTpRyp_yTLhsi-Hn84&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkRXrBXL8dEhppwRaZhvzvVUAE3wqwt1gWQ&usqp=CAU"}
+],
+"name":"HOTEL SALISBURY, NEW YORK",
+"room":4,
+"beds":3,
+"bath":2,
+"area":356,
+"location":"8851 Green Rd.",
+"popular":false,
+"rent":2365,
+"sale":false
+}
+,{"city":1,
+"id":7,
+"hotelImages":[
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d7/25/cd/the-mark.jpg?w=700&h=-1&s=1"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprUEdwF63O2oPbfeHu8HlLEV3FpbQE8jqTXYJAnKaWO3n3Xwc27-7b6LpSCG0gVoqvf0&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpc5WXqUcNhm-z7FOAluBvOBZk4spHnapk-kAJfLjMGqSE-PAd_2gHtI94ePcX6bOPBI&usqp=CAU"},
+    {"img":"https://markhotel-production.s3.amazonaws.com/app/uploads/2015/04/The-Mark-Three-Bedroom-Terrace-Suite-Living-Room-600x400.jpg"}
+],
+"name":"THE MARK, NEW YORK",
+"room":4,
+"beds":3,
+"bath":2,
+"area":326,
+"location":"8851 Green Rd.",
+"popular":true,
+"rent":3456,
+"sale":true
+}
+,{"city":1,
+"id":8,
+"hotelImages":[
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6eNXv1EdPC2hMiMW3KpklAtxfUlAwPnjxjkcvFa-ktje8bCZneOgXrlPjywl7JWF68U&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKNHPZEXySCueXlIOer-hQ9vpF47q7Tgn5XffQDycmM-CY3LRVw5lSHt-fzyQedZWuxA0&usqp=CAU"},
+    {"img":"https://media.cntraveler.com/photos/5d079b1232d317734937d5f5/16:9/w_2560,c_limit/Arthouse_2019_2.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/76840923.jpg?k=e41efbc0c332352fe30ba4ea3124fd31fb3670f6bf8cbd73b24e763699841342&o=&hp=1"}
+],
+"name":"ARTHOUSE HOTEL, NEW YORK",
+"room":4,
+"beds":3,
+"bath":1,
+"area":536,
+"location":"6959 hill Rd.",
+"popular":true,
+"rent":6456,
+"sale":false
+}
+,{"city":1,
+"id":9,
+"hotelImages":[
+    {"img":"https://media.hrs.com/media/image/08/7d/86/YOTEL_New_York_Times_Square-New_York-Aussenansicht-2-539539.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/341654547.jpg?k=9999c736a194af808d053b890e763952a6b7bf3e648354b5e3f66d7bf83933a4&o=&hp=1"},
+    {"img":"https://www.yotel.com/sites/default/files/styles/576w/public/2020-11/NYC_Cabins_VIP_N14.jpg?itok=e8_qBlQP"},
+    {"img":"https://q-xx.bstatic.com/xdata/images/hotel/max500/341654558.jpg?k=b7f8893bdd0e998d67b453f6258882ada42061d1df6ad00ac34f17b3f7c566e6&o=&isSkia=true"}
+],
+"name":"YOTEL NEW YORK TIMES SQUARE, NEW YORK",
+"room":4,
+"beds":3,
+"bath":1,
+"area":636,
+"location":"8971 white Rd.",
+"popular":false,
+"sale":false,
+"rent":4565
+
+}
+,{"city":2,
+"id":10,
+"hotelImages":[
+    {"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mumbai_Aug_2018_%2843397784544%29.jpg/1200px-Mumbai_Aug_2018_%2843397784544%29.jpg"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtRB33WCEmF3vsn7Rnxepcuo7XIrd_J-1aBke2z-WLIbHINhbNP-BREhvqll3RIl9PQg&usqp=CAU"},
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e9/b9/68/the-taj-mahal-palace.jpg?w=700&h=-1&s=1"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMBUV7fVIIRW8iFUMzmSVhkspEqKDL9T71Eu9rdGtue-pYNtePL1IasQkSI4jLArKmJH0&usqp=CAU"}
+],
+"name":"THE TAJ MAHAL PALACE, MUMBAI",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"8971 white Rd.",
+"popular":false,
+"sale":false,
+"rent":456
+}
+,{"city":2,
+"id":11,
+"hotelImages":[
+    {"img":"https://cdn1.goibibo.com/voy_ing/t_srp/2bace32677f911e789f00a4cef95d023.jpg"},
+    {"img":"https://static2.tripoto.com/media/filter/tst/img/412255/TripDocument/1578119209_img_20190602_092718_2.jpg"},
+    {"img":"https://www.theleela.com/prod/content/assets/styles/tl_1920_735/public/aio-banner/dekstop/leela-mumbai-luxury-hotel.jpg?VersionId=ILpzQKEalOtRG9Z.1St0IUU7yE0349H2&itok=i20gmg8w"},
+    {"img":"https://q-xx.bstatic.com/xdata/images/hotel/max500/47218248.jpg?k=6b8175e6e9cc127424325972c9152a18ff686327419ef9efdb85c76249c99429&o="}
+],
+"name":"THE LEELA PALACE, MUMBAI",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Gate way Rd.",
+"popular":true,
+"sale":false,
+"rent":456
+}
+,{"city":2,
+"id":12,
+"hotelImages":[
+    {"img":"https://santorinidave.com/wp-content/uploads/2019/09/mumbai-oberoi-review.jpg"},
+    {"img":"https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/The-Oberoi-Mumbai/Room-and-Suites/oberoi-executive-suites-with-ocean-view/overview-new/Untitled-1.jpg"},
+    {"img":"https://www.luxuryfacts.com/app/webroot/img/images/The-Eau-Bar-Tree-of-Life(1).jpg"},
+    {"img":"https://www.greavesindia.co.uk/wp-content/uploads/2016/11/Greaves_The_Oberoi_Mumbai.jpg"}
+],
+"name":"THE OBEROI, MUMBAI",
+"room":4,
+"beds":5,
+"bath":1,
+"area":756,
+"location":"Bengla way Rd.",
+"popular":false,
+"sale":true,
+"rent":200
+}
+,{"city":2,
+"id":13,
+"hotelImages":[
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/274561674.jpg?k=6702c0adf1c09b643c4942f75a9f635a6bb68c6c8e60bb9e06d6dc4be9f691f7&o=&hp=1"},
+    {"img":"https://cdn0.weddingwire.in/vendor/3527/3_2/960/jpg/copy-of-get-together-6w1a780833-1_15_343527-163575493031771.jpeg"},
+    {"img":"https://media.radissonhotels.net/image/radisson-blu-hotel-mumbai-international-airport/suiteamenity/16256-126778-f72696259_3xl.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max500/331987485.jpg?k=b48275c360a3d5ccc3d043c7812f2a9314476ace203067eba112bc27421efd6c&o=&hp=1"}
+],
+"name":"RADISSON BLU MUMBAI INTERNATIONAL AIRPORT, MUMBAI",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Gate way Rd.",
+"popular":false,
+"sale":true,
+"rent":459
+}
+,{"city":2,
+"id":14,
+"hotelImages":[
+    {"img":"https://www.efpeurofacade.com/wp-content/uploads/2021/08/pLWGX7Td196e86dd_184.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/113575125.jpg?k=77d486b68dd8b96d35c2818fc8755aaa9bd5666718cec89de67fc32ac814e53d&o=&hp=1"},
+    {"img":"https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Santacruz/images/3x2/LuxuryCityViewRoom.jpg"},
+    {"img":"https://www.traveltomtom.net/images/nieuwe_indeling/artikels/india/mumbai/tajsantacruz/taj_santacruz_restaurantsTN.jpg"}
+],
+"name":"TAJ SANTACRUZ, MUMBAI",
+"room":3,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Short way Rd.",
+"popular":false,
+"sale":false,
+"rent":532
+}
+,{"city":2,
+"id":15,
+"hotelImages":[
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/33034375.jpg?k=ebad21bc68081acf90d3fc69b50bc8a713a60df7eb219351be8ca0e409473758&o=&hp=1"},
+    {"img":"https://www.tridenthotels.com/-/media/trident-hotel/Gallery-Images/TBK/765x580/pool.jpg"},
+    {"img":"https://www.tridenthotels.com/-/media/trident-hotel/trident-bandra-kurla/BKC-Overview/Room--Suites/TBK-Suite-Images/Desktop-765x580/deluxe-suite.jpg"},
+    {"img":"https://dimg04.c-ctrip.com/images/0222c12000alk4xfi52D9.jpg"}
+],
+"name":"TRIDENT HOTEL BANDRA KURLA, MUMBAI",
+"room":2,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Gate way Rd.",
+"popular":false,
+"sale":false,
+"rent":423
+}
+,{"city":2,
+"id":16,
+"hotelImages":[
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2hLdCTVLasnStvJ1albNSpExqBjwOdLqcLS4-hOGDPMG_8fCZVl8ibAMWJYtGGHulVg&usqp=CAU"},
+    {"img":"https://www.tamarindglobalweddings.com/world-map/images/hotels/The-Westin-Mumbai-Garden-City-4.jpg"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbp8ZxNU-C2Id7H7y5W66mbMQ3kAobBCY2xQ&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0hZyVIWvs0HLjiE3ZBX1c2G03DD4Y9hHCg&usqp=CAU"}
+],
+"name":"THE WESTIN GARDEN MUMBAI CITY, MUMBAI",
+"room":3,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Gate way Rd.",
+"popular":false,
+"sale":false,
+"rent":256
+},{"city":2,
+"id":17,
+"hotelImages":[
+    {"img":"https://www.ahstatic.com/photos/b4c0_ho_00_p_1024x768.jpg"},
+    {"img":"https://dynl.mktgcdn.com/p/SIerlzy3n-zcU_ewz_mwsZlcpl9QLLnHpbF3WfucIEk/1024x768.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/464507589.jpg?k=c571de1a0a4242195582380b8b1f9b40329254f7174620b4fd6cc63a9cf30a7d&o=&hp=1"},
+    {"img":"https://www.ahstatic.com/photos/b4c0_ho_03_p_1024x768.jpg"}
+],
+"name":"NOVOTEL MUMBAI INTERNATIONAL AIRPORT, MUMBAI",
+"room":5,
+"beds":6,
+"bath":3,
+"area":756,
+"location":"Ring Area",
+"popular":false,
+"sale":true,
+"rent":523
+}
+,{"city":2,
+"id":18,
+"hotelImages":[
+    {"img":"https://hospitalitybizindia.com/wp-content/uploads/2023/04/4-scaled.jpg"},
+    {"img":"https://www.tajhotels.com/content/dam/luxury/hotels/taj-the-trees-mumbai/Luxury-Suite.jpg"},
+    {"img":"https://www.tajhotels.com/content/dam/luxury/hotels/taj-the-trees-mumbai/Taj-Club-King-Room.jpg"},
+    {"img":"https://www.tajhotels.com/content/dam/luxury/hotels/taj-the-trees-mumbai/Luxury-King-Room-Mangrove-View.jpg"}
+],
+"name":"TAJ THE TREES, MUMBAI",
+"room":2,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Gate way Rd.",
+"popular":false,
+"sale":false,
+"rent":456
+}
+,{"city":3,
+"id":19,
+"hotelImages":[
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/410746698.jpg?k=f5c2d432cf2dd619487ec20f364976e922c36719e818d90b6813124870b630c1&o=&hp=1"},
+    {"img":"https://media-cdn.tripadvisor.com/media/photo-s/21/7d/75/31/la-demeure-montaigne.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/321383506.jpg?k=57c75ef4d25caddeb8b136ea80b4db8079e17efb5b8fafb4ac260135fee0f03b&o=&hp=1"},
+    {"img":"https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6acac173d54b4259ab4ffce5c1c3ec3b"}
+],
+"name":"LA DEMEURE MONTAIGNE, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"rent":456
+}
+,{"city":3,
+"id":20,
+"hotelImages":[
+    {"img":"https://hotellemilierose.com/_novaimg/galleria/1451222.jpg"},
+    {"img":"https://hotellemilierose.com/_novaimg/4752867-1451242_254_0_3291_2469_1200_900.jpg"},
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/00/dc/7c/hotel-le-milie-rose.jpg?w=700&h=-1&s=1"},
+    {"img":"https://www.ticati.com/img/hotel/13839831s.jpg"}
+],
+"name":"LE MILIE ROSE HOTEL, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Gate way Rd.",
+"popular":false,
+"sale":false,
+"rent":456
+}
+,{"city":3,
+"id":21,
+"hotelImages":[
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/268776085.jpg?k=5f8945315637e081105bb88f2c39b2da56adfdbde0b9f232d43ee3eb828890ce&o=&hp=1"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/268775390.jpg?k=eafd8434f979f383ce695aa4a467c85ddd65581d5896d9fd941ef2bfd27d7b5d&o=&hp=1"},
+    {"img":"https://images.trvl-media.com/lodging/1000000/10000/1300/1249/803dd63a.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/384289320.jpg?k=07f6457dea89a6949b5b9ff2923902abfd99e62b60f70ae84db445522e06133e&o=&hp=1"}
+],
+"name":"CHOUCHOU HOTEL, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Tower way Rd.",
+"popular":true,
+"sale":false,
+"rent":456
+}
+,{"city":3,
+"id":22,
+"hotelImages":[
+    {"img":"https://www.greeka.com/hotels/photos/6691/thessaloniki-the-modernist-thessaloniki-top-3-1280.jpg"},
+    {"img":"https://images.trvl-media.com/hotels/1000000/570000/565200/565106/9e15591c_z.jpg"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM9Q118txe6XeH4fXSJXivJ1P7JCf0ftYRyjZs1oXIRG3RaR5KKV8rqI2ZDfywWo7OayM&usqp=CAU"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/331845498.jpg?k=639560ee2a2c4766f1e20c95f16ecdb11e97d3d05a2bd592d848d737071b73df&o=&hp=1"}
+],
+"name":"HOTEL MODERNISTE, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Tower way Rd.",
+"popular":true,
+"sale":false,
+"rent":456
+}
+,{"city":3,
+"id":23,
+"hotelImages":[
+    {"img":"https://www.hoteljardinsdemademoiselle.com/wp-content/uploads/2019/12/terrasse-nuit-les-jardins-de-mademoiselle-300x200.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/208043649.jpg?k=c94ff26673dc103c9388104cddb76ed9ec20d7e504e0523442dc0b417d3ced14&o=&hp=1"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTx9n0vCtm6H_E50Qr5QIe5EoeOOq3oFxHhmOyv-op_jH8Jndwmh1aj6sOCd4E-c1MJXk&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcc2XnOOsbV6jU3-MvJ7nj25k1tYUQ9kDxZg&usqp=CAU"}
+],
+"name":"LES JARDINS DE MADEMOISELLE, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":true,
+"sale":false,
+"rent":456
+}
+,{"city":3,
+"id":24,
+"hotelImages":[
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0_Nf4YWhQ1O97nBn7yZybuEKVRu2i30GoA&usqp=CAU"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/269837268.jpg?k=747255a76411abe8ff8e4a0470ecdc59e847cc2848586f91a206b02e7804c96b&o=&hp=1"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0gGLq7wvpPTO7qcUkwjwd17zNLPOT2z4QFBRrTiJ9asex8vNfxJvXsNgz6spGWE-rHo&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYq73xINKQscjxFs-7fIje8c9wYEdj9NnVhQ&usqp=CAU"}
+],
+"name":"LE BASILE HOTEL, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,"location":"Museum way Rd.",
+"popular":true,
+"sale":false,
+"rent":4585
+}
+,{"city":3,
+"id":25,
+"hotelImages":[
+    {"img":"https://media-cdn.tripadvisor.com/media/photo-s/28/e2/b3/e5/outside-view.jpg"},
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6d/cc/11/breakfast-room.jpg?w=700&h=-1&s=1"},
+    {"img":"https://media.hrs.com/media/image/83/22/b0/Malte_-_Astotel-Paris-Buffet-69204.jpg"},
+    {"img":"https://pix10.agoda.net/hotelImages/492/4926/4926_17061418340053686883.jpg?ca=13&ce=1&s=414x232"}
+],
+"name":"HOTEL MATLE- ASTOTEL, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":false,
+"sale":false,
+"rent":4585
+}
+,{"city":3,
+"id":26,
+"hotelImages":[
+    {"img":"https://foto.hrsstatic.com/fotos/0/2/1280/1280/100/FFFFFF/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F0%2F3%2F8%2F3%2F038344%2F038344_ha_3137913.jpg/h1dpcl6RBBqfNBRUL3GEXw%3D%3D/1034%2C2036/6/Hotel_Ducs_de_Bourgogne-Paris-Hotel_outdoor_area-38344.jpg"},
+    {"img":"https://q-xx.bstatic.com/xdata/images/hotel/max500/174350981.jpg?k=b68744ecb79b36f5d25f15d46fdde282e7c18e20dccd6f95313bcece9559186f&o="},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/88055527.jpg?k=c1356c97e3908b8e1dde1a5df65fd5b4a0926e8965312a00f69386268ccebfaa&o=&hp=1"},
+    {"img":"https://webbox.imgix.net/images/fkasnjcmlhnbwpkv/b95512c1-f64b-4c2a-a4b8-b789347af300.jpg?auto=format,compress&fit=crop&crop=entropy"}
+],
+"name":"HOTEL DUCS DE BOURGOGNE, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":false,
+"sale":false,
+"rent":4546
+}
+,{"city":3,
+"id":27,
+"hotelImages":[
+    {"img":"https://media-cdn.tripadvisor.com/media/photo-s/01/76/0d/c2/hotel-entrance.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/22212230.jpg?k=beccd1590670bbaddde076ce4f8822900aee9872ea63751da8793b3146c20533&o=&hp=1"},
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/f4/35/89/guest-room.jpg?w=700&h=-1&s=1"},
+    {"img":"https://worldinparis.com/wp-content/uploads/2018/04/Hotel-SanRegis-Paris.jpg"}
+],
+"name":"HOTEL KEPPLER, PARIS",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":false,
+"sale":true,
+"rent":5656
+}
+,{"city":4,
+"id":28,
+"hotelImages":[
+    {"img":"https://liveandletsfly.com/wp-content/uploads/2022/07/Hyatt-Regency-London-Stratford-Review-86.jpeg"},
+    {"img":"data:image/jpeg;base64,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"},
+    {"img":"https://liveandletsfly.com/wp-content/uploads/2022/07/Hyatt-Regency-London-Stratford-Review-91.jpeg"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZxrXvSx3EUFHge0JxkaN4CBnDeVXyThG1Q&usqp=CAU"}
+],
+"name":"HYATT REGENCY LONDON STANFORD, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":false,
+"sale":true,
+"rent":756
+}
+,{"city":4,
+"id":29,
+"hotelImages":[
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/132205763.jpg?k=fd869d4af0419f0f637f8af3547568de4c45645c627e3c07603b96ec7f8a12f5&o=&hp=1"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfxzAfxqkrZk6cnWrzC9i48mzpn1kuI79BLV7_HIO29z0CRDZdB9VAbo-uQP5a0KLQZQ&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9bgTvdkQGjuXzBBzdDpmDsbkyNDg0HUZlCSLPKpReZw-TtH0CLFfGyd3WzbqvnUzGnQo&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqa0wWsA9AXEr_iFj1MLhYBTxEjrMJP0UOmg&usqp=CAU"}
+],
+"name":"THE CHELSEA HARBOUR HOTEL AND SPA, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":false,
+"sale":false,
+"rent":2356
+}
+,{"city":4,
+"id":30,
+"hotelImages":[
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/39/17/86/novotel-london-tower.jpg?w=700&h=-1&s=1"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWaHDIsLf4hcwlBBUPUQexyHxvc2C9E_Z-TBX6HcDQTfioBdiyjjoHTuzjUTlcI_dyxQU&usqp=CAU"},
+    {"img":"https://www.kayak.co.in/rimg/himg/e9/30/07/ice-37167-71910193_3XL-760143.jpg?width=720&height=576&crop=true"},
+    {"img":"https://www.ahstatic.com/photos/3269_br_00_p_1024x768.jpg"}
+],
+"name":"NOVOTEL LONDON TOWER BRIDGE HOTEL, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":true,
+"sale":false,
+"rent":4656
+}
+,{"city":4,
+"id":31,
+"hotelImages":[
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/323615221.jpg?k=c602408b51fc5df99ecd82728b486f349102de0497d021e47d66b182bccb6ef2&o=&hp=1"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVhADn7DwOT1BFxSirT7mirRZSy2063zIbXnRu3WfDfQl1KCNabitNcqQWX_URsMZR8R0&usqp=CAU"},
+    {"img":"https://cdn.fizzbox.com/accommodation/properties/leonardo-royal-hotel-london-tower-bridge/grange_tower_bridge_hotel05.jpg"},
+    {"img":"https://static.leonardo-hotels.com/image/executive-room-with-king-bed_35ba711c8e3052877659372a86e4bb3a_2048x1365_desktop_2.jpeg"}
+],
+"name":"LEONARDO ROYAL HOTEL LONDOM TOWER BRIDGE, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":true,
+"sale":false,
+"rent":2356
+}
+,{"city":4,
+"id":32,
+"hotelImages":[
+    {"img":"https://images.squarespace-cdn.com/content/v1/58d15ded6a49638c26e0888c/1550242082407-1O8N7E20EUFRBF42JRA3/wagner_110831_1050_7397.jpg?format=1000w"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1280x900/54189146.jpg?k=17ea81175ae84983c0e0d475e31f89e5cc90567b0ebf783ad49d9c80c59f67d3&o=&hp=1"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/218374224.jpg?k=9dd7b776ba9965ef47e241ffd98aa226b80e517327f7aa3308d8cf91e7b4f1b2&o=&hp=1"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/34431153.jpg?k=4ed72b96f65015579161baad33410e698cebaa1b6738b56d6b6565ac8ac716d2&o=&hp=1"}
+],
+"name":"LONDON BRIDGE HOTEL, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":false,
+"sale":false,
+"rent":456
+}
+,{"city":4,
+"id":33,
+"hotelImages":[
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ce/bc/68/exterior.jpg?w=700&h=-1&s=1"},
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/cc/62/2e/lobby.jpg?w=700&h=-1&s=1"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-67Mi-NtJhwSMJa0_QeCpKThRzJJKwOYkvKAR4odKNMK7iCooCA7CAc2YhiMPZoYFlg&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxndKpHSoo5FC4eW_HgS9mpkr4VkdCXPZzQ&usqp=CAU"}
+],
+"name":"HILTON LONDON BANKSIDE HOTEL, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":false,
+"sale":false,
+"rent":4558
+}
+,{"city":4,
+"id":34,
+"hotelImages":[
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJo_ieUelyNbpY2p4wS76y5DYKEBGW5XpX1Q&usqp=CAU"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSMT8txwunARFuTOBKfbOuSEVBnEXIR5BEKesWfQxe2PDmWqh185mwgRv9fUHSmLKWXw&usqp=CAU"},
+    {"img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/3a/86/59/leonardo-royal-london.jpg?w=700&h=-1&s=1"},
+    {"img":"https://i.pinimg.com/1200x/2d/53/09/2d5309bbdac7fd64072bf7171bdc0d8b.jpg"}
+],
+"name":"THE TOWER HOTEL, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Falico way Rd.",
+"popular":true,
+"sale":false,
+"rent":656
+}
+,{"city":4,
+"id":35,
+"hotelImages":[
+    {"img":"https://the-grand-at-trafalgar-square-hotel-london.booked.net/data/Photos/OriginalPhoto/2777/277763/277763845/The-Grand-At-Trafalgar-Square-Hotel-London-Exterior.JPEG"},
+    {"img":"https://www.thegrandattrafalgarsquare.com/wp-content/uploads/sites/8/2017/12/buckingham-palace-1024x426.jpg?ch=Width,DPR"},
+    {"img":"https://the-grand-at-trafalgar-square-hotel-london.booked.net/data/Photos/OriginalPhoto/1793/179369/179369865/The-Grand-At-Trafalgar-Square-Hotel-London-Interior.JPEG"},
+    {"img":"https://www.thegrandattrafalgarsquare.com/wp-content/uploads/sites/8/2018/12/411-SUPERIOR_CQ_TRAFALGAR_0056_small.jpg?ch=Width,DPR"}
+],
+"name":"THE GRAND, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":false,
+"sale":true,
+"rent":3456
+}
+,{"city":4,
+"id":36,
+"hotelImages":[
+    {"img":"https://media.hrs.com/media/image/7d/1e/1a/GREAT_CUMBERLAND_PLACE-London-Hotel_outdoor_area-1-11565.jpg"},
+    {"img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/456998219.jpg?k=1d8e5b44ebbfd9139f750257d3b8e809b8b48548d5f491a1aaaefab771239c67&o=&hp=1"},
+    {"img":"https://images.trvl-media.com/lodging/1000000/30000/21700/21659/a1af92ae.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzTMukqXkKo-r-qxOEeRPC0YZtrWle2MsnQ&usqp=CAU"}
+],
+"name":"THE CUMBERLAND HOTEL, LONDON",
+"room":4,
+"beds":3,
+"bath":1,
+"area":756,
+"location":"Museum way Rd.",
+"popular":true,
+"sale":false,
+"rent":956
+}
+]

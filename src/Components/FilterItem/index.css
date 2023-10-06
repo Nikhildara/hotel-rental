@@ -1,0 +1,23 @@
+.list-item-con{
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    gap: 10px;
+}
+
+.btn{
+    background-color: rgb(221, 222, 241);   
+}
+
+.filter-btn{
+    width: 85px;
+    border: 0px;
+    padding: 10px 15px;
+    border-radius: 18px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.active-btn{
+    background-color: rgb(65, 108, 239);
+    color: white;
+}

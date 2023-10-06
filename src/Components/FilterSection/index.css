@@ -1,0 +1,23 @@
+.view-all{
+    border: 2px solid rgb(75, 75, 237);
+    width: 115px;
+    padding: 5px 15px;
+    color: rgb(75, 75, 237);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 18px;
+}
+.filter-view-con{
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+    justify-content: space-between;
+}
+/* .btn-view{
+    background-color: transparent;
+    border: 0;
+    color: rgb(75, 75, 237);
+    width: 100px;
+} */
